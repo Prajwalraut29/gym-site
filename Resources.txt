@@ -1,0 +1,14 @@
+Colors
+  --color-one:#f36e26;
+  --color-two:linear-gradient(306deg, rgba(255,89,19,1) 9%, rgb(201, 55, 2) 87%);
+  --color-three:linear-gradient(306deg, rgb(235, 76, 8) 9%, rgb(71, 21, 3) 87%);
+
+
+Font-Awesome CDN
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.2/css/all.min.css" integrity="sha512-1sCRPdkRXhBV2PBLUdRb4tMg1w2YPf37qatUFeS7zlBy7jJI8Lf4VHwWfZZfpXtYSLy85pkm9GaYVYMfw5BC1A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+
+Font-Awesome Social Media Icons
+<i class="fa-brands fa-instagram"></i>
+<i class="fa-brands fa-twitter"></i>
+<i class="fa-brands fa-facebook"></i>
